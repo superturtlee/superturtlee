@@ -78,7 +78,7 @@
 
 <div align="center">
 
-<img src="assets/wechatpay.png" alt="WeChat Pay 微信赞赏码" width="280"/>
+<img src="assets/zanshang.jpeg" alt="WeChat Pay 微信赞赏码" width="280"/>
 
 **微信支付 · WeChat Pay**
 
